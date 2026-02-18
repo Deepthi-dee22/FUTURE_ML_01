@@ -15,7 +15,7 @@ Linear Regression
 ## 📈 Results
 The model predicts sales trend based on time progression.
 
-Mean Absolute Error: (write your MAE value here)
+Mean Absolute Error: ( 7.191142191142262)
 
 ## 📷 Output
 ![Sales Forecast](forecast_output.png)
@@ -28,4 +28,5 @@ Mean Absolute Error: (write your MAE value here)
 ## 🚀 Future Improvements
 - Use Random Forest
 - Add 30-day future prediction
+
 - Deploy as web app
